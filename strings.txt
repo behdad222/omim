@@ -1192,7 +1192,7 @@
     comment = Location Services are not available on the device alert - message
     en = Your device doesn't support Location Services
     ru = Ваше устройство не поддерживает геолокацию
-    fa = دستگاه شمااز خدمات مکانی پشتیبانی نمی‌کند
+    fa = دستگاه شما از خدمات مکانی پشتیبانی نمی‌کند
     ar = جهازك لا يدعم خدمات تحديد المواقع.
     cs = Vaše zařízení nepodporuje služby pro určování polohy
     da = Din enhed understøtter ikke lokationstjenester
@@ -1853,7 +1853,7 @@
   [free_space_for_country]
     en = Please free %1$@ on your device first in order to download %2$@
     ru = Для загрузки %2$@ нужно %1$@ свободного места
-    fa = به منظور دریافت %2$@ لطفا %1$@  را در حافظه خود آزاد کنید
+    fa = به منظور دریافت %2$@ لطفا %1$@ را در حافظه خود آزاد کنید
     ar = الرجاء إخلاء %1$@ على جهازك أولا من أجل تنزيل %2$@
     cs = Prosím, uvolněte nejprve %1$@ ve svém zařízení, aby bylo možné stáhnout %2$@
     da = Frigør venligst %1$@ på din enhed først for at downloade %2$@
@@ -1884,7 +1884,7 @@
   [download_resources]
     en = Before you start using the app, allow us to download the general world map to your device.\nIt will use %@ of storage.
     ru = Перед началом работы разрешите нам загрузить общую карту мира на ваше устройство.\nЭто потребует %@ данных.
-    fa = پیش از این که شروع به استفاد از اپلیکیشن کنید، به ما اجازه دهید نقشه کلی جهان را دریافت کنیم.\n این نقشه @  از حافظه را اشغال می‌کند
+    fa = پیش از این که شروع به استفاد از اپلیکیشن کنید، به ما اجازه دهید نقشه کلی جهان را دریافت کنیم.\n این نقشه @ از حافظه را اشغال می‌کند
     ar = قبل أن تبدأ، دعنا نقوم بتنزيل خريطة العالم العامة على جهازك.\nانها بحاجة الى %@ من البيانات.
     cs = Ještě než začnete, bude třeba stáhnout obecnou mapu světa.\nZabere to %@.
     da = Før du starter, så lad os downloade det generelle verdenskort til din enhed.\nIt behøver %@ af data.
@@ -2855,7 +2855,7 @@
     tags = ios,android
     en = You have no bookmarks yet.\nTap on any place on the map to add a bookmark.\nBookmarks from other sources can also be imported and displayed in MAPS.ME. Open KML/KMZ file with saved bookmarks from email, Dropbox or weblink.
     ru = У вас пока нет меток.\nВыберите любое место на карте, чтобы добавить его.\nТакже метки можно импортировать из MAPS.ME либо других приложений и сайтов. Для этого откройте KML/KMZ файл из Dropbox, почты или по веб-ссылке.
-    fa = شما هنوز هیچ نشانه‌ای ندارید.\n بر روی مکان دلخواهتان کلیک کنید تا یک نشانه اضافه کنید.\n نشانه‌ها از منابع دیگر هم میتوانند وارد MAPS.ME شوند. پرونده KML/KMZ را باز کنید توسط ایمیل، دراپ باکسريا یا پیوند وب.
+    fa = شما هنوز هیچ نشانه‌ای ندارید.\n بر روی مکان دلخواهتان کلیک کنید تا یک نشانه اضافه کنید.\n نشانه‌ها از منابع دیگر هم می‌توانند وارد MAPS.ME شوند. پرونده KML/KMZ را باز کنید توسط ایمیل، دراپ باکس یا پیوند وب.
     ar = ليس لديك أي إشارات مرجعية بعد.\nانقر على أي مكان على الخريطة لإضافة إشارة مرجعية.\nيمكنك أيضا استيراد الإشارات المرجعية من المصادر الأخرى وعرضها في MAPS.ME. افتح ملف KML/KMZ الذي يحتوي على الدبابيس المحفوظة من البريد الالكتروني، دروب بوكس أو ويب لينك.
     cs = Zatím nemáte žádné záložky.\nZáložku můžete přidat přidržením libovolného místa na mapě.\nV MAPS.ME mohou být také zobrazeny importované záložky z jiných zdrojů. Soubor ve formátu KML/KMZ s uloženými záložkami lze otevřít např. z emailu, Dropboxu nebo webového odkazu.
     da = Du har ingen bogmærker endnu.\nTryk på et sted på kortet for at kunne tilføje det til bogmærker. Bogmærker fra andre kilder kan også blive importeret og vist i MAPS.ME.\nÅbn en KML/KMZ fil med gemte bogmærker/knappenåle på i Mail, Dropbox eller på et link.
@@ -2888,7 +2888,7 @@
     tags = ios,android
     en = Bookmarks from other sources can be imported and displayed in MAPS.ME. Open a KML/KMZ file with saved bookmarks from email, Dropbox or a weblink.
     ru = Метки можно импортировать из MAPS.ME либо других приложений и сайтов. Для этого откройте KML/KMZ файл из Dropbox, почты или по веб-ссылке.
-    fa = نشانه‌ها از منابع دیگر هم میتوانند وارد MAPS.ME شوند. پرونده KML/KMZ را باز کنید توسط ایمیل، دراپ باکس يا یا پیوند وب.
+    fa = نشانه‌ها از منابع دیگر هم می‌توانند وارد MAPS.ME شوند. پرونده KML/KMZ را باز کنید توسط ایمیل، دراپ باکس یا پیوند وب.
     ar = يمكن استيراد الإشارات المرجعية من المصادر الأخرى و عرضها على MAPS.ME. افتح ملف KML/KMZ الذي يحتوي على الإشارات المرجعية المحفوظة من البريد الالكتروني، دروب بوكس أو ويب لينك.
     cs = V MAPS.ME mohou být zobrazeny importované záložky z jiných zdrojů. Soubor ve formátu KML/KMZ s uloženými záložkami lze otevřít např. z emailu, Dropboxu nebo webového odkazu.
     da = Du har ingen bogmærker endnu. Tryk på et sted på kortet for at kunne tilføje det til bogmærker. Bogmærker fra andre kilder kan også blive importeret og vist i MAPS.ME. Åbn en KML/KMZ fil med gemte bogmærker/knappenåle på i Mail, Dropbox eller på et link.
@@ -6186,7 +6186,7 @@
     tags = android
     en = Due to changes in Android 4.4, we need to optimize the map data storage, but there is not enough space to copy map data.\n\nPlease free up some memory, otherwise maps will only be available in read-only mode.
     ru = В связи с изменениями на Android 4.4 нам нужно оптимизировать хранение данных. Но сейчас не хватает места ни во внутренней памяти, ни на SD-карте.\n\nПожалуйста, освободите место для переноса карт, иначе карты будут доступны только для просмотра.
-    fa = با توجه به تغییرات در اندروید 4.4، ما نیاز به بهینه‌سازی فضای ذخیره‌سازی نقشه‌ها، اما فضای کافی برای کپی کردن داده های نقشه وجود ندارد.\n\n لطفا مقادری از حافظه را به منظور این کار آزاد کنید. در غیر این صورت نقشه تنها در حالت
+    fa = با توجه به تغییرات در اندروید ۴.۴، نیاز به بهینه‌سازی فضای ذخیره‌سازی نقشه‌ها داریم، اما فضای کافی برای کپی کردن داده‌های نقشه وجود ندارد.\n\n لطفا مقادری از حافظه را به منظور این کار آزاد کنید. در غیر این صورت نقشه‌ها تنها در حالت خواندنی در دسترس هستند
     ar = بسبب التغييرات في نظام أندرويد4.4 ، نحن بحاجة لتحسين وسيلة تخزين بيانات الخريطة، لكن لا يوجد حيز كافٍ لنسخ بيانات الخريطة.\n\nالرجاء إخلاء الذاكرة، وإلا ستتوافر الخرائط في وضع القراءة فقط.
     cs = Kvůli změnám v Androidu 4.4 musíme optimalizovat uložiště map, ale není dostatek prostoru pro jejich zkopírování.\n\nProsím, uvolněte paměť, jinak budou mapy dostupné pouze v režimu pro čtení.
     da = På grund af ændringer i Android 4.4 er vi nødsaget til at optimere kort data lagringen, men der er ikke nok plads til at kopiere kort dataen.\n\nFrigør venligst noget plads på din enhed, ellers vil kortene være skrivebeskyttede.
@@ -8079,7 +8079,7 @@
     tags = android, ios
     en = There is no route found between the selected origin and destination. Please select a different start or end point.
     ru = Невозможно проложить маршрут между выбранными точками. Пожалуйста, измените начало или конец маршрута.
-    fa = هیچ مسیری بین دو نقطه انتخابی شما یافت نشد. یک یک نقطه شروع یا پایان متفاوت را انتخاب کنید.
+    fa = هیچ مسیری بین دو نقطه انتخابی شما یافت نشد. یک نقطه شروع یا پایان متفاوت را انتخاب کنید.
     ar = لم يتم العثور على مسار بين المنشأ والوُجْهَة المحددة. الرجاء تحديد نقطة بداية أو نهاية مختلفة.
     cs = Mezi zvoleným počátkem a cílem nebyla nalezena žádná trasa. Vyberte jiný počáteční nebo koncový bod.
     da = Der blev ikke fundet en rute mellem det valgte begyndelsespunkt og destinationen. Venligst vælg et andet start- eller slutpunkt.
@@ -9966,7 +9966,7 @@
     tags = ios,android
     en = — Road conditions, traffic laws, and road signs always take priority over the navigation hints;
     ru = — Дорожная обстановка, ПДД и знаки приоритетнее советов приложения;
-    fa = — شرایط جاده، قوانین راهنمایی و رانندگی وتابلوهای جاده همیشه از نکات ناوبری اولویت بیشتری دارند;
+    fa = — شرایط جاده، قوانین راهنمایی و رانندگی و تابلوهای جاده همیشه از نکات ناوبری اولویت بیشتری دارند;
     ar = — دائمًا ما يكون لظروف الطريق وقوانين وإشارات المرور الأولوية على المشورة الملاحية;
     cs = • Situace na silnici, dopravní předpisy a dopravní značení mají vždy prioritu před pokyny navigace.
     da = — Vejforhold, færdselsregler og skiltning skal prioriteres højere end anvisningerne fra navigationsappen;
@@ -10062,7 +10062,7 @@
     tags = ios,android
     en = — Exercise caution with routes in border zones: the routes created by our app may sometimes cross country borders in unauthorized places.
     ru = — Будьте внимательны с маршрутами в приграничных зонах: в построенных программой маршрутах иногда возможны пересечения границ в неположенных местах;
-    fa = — در عبور از مناطق مرزی احتباط کنید: مسیرهای ایجاد شده توسط برنامه ما ممکن است گاهی اوقات از مرزهای کشوردر مناطق غیرمجاز عبور کنند.
+    fa = — در عبور از مناطق مرزی احتباط کنید: مسیرهای ایجاد شده توسط برنامه ما ممکن است گاهی اوقات از مرزهای کشور در مناطق غیر مجاز عبور کنند.
     ar = — تحذير بشأن مسارات في منطقة حدودية: المسارات التي تم إنشاؤها بواسطة تطبيقنا قد تعبر حدود الدولة في أماكن غير مصرح بها في بعض الأحيان;
     cs = — U tratí v hraničních zónách buďte opatrní: trasy vytvořené naší aplikací občas překračují hranice zemí na nepovolených místech;
     da = — Vær forsigtig med ruter i grænseområder: de ruter, vores app har skabt, kan nogle gange krydse landegrænser på uautoriserede steder;
@@ -12836,7 +12836,7 @@
   [editor_report_problem_desription_1]
     en = Please describe the problem in detail so that the OpenStreeMap community can fix the error.
     ru = Пожалуйста, напишите подробно о проблеме, чтобы сообщество OpenStreetMap исправило ошибку.
-    fa = لطفا مشکل را با جرئیات توضیح دهید تا جامعه‌س اوپن‌استریت‌مپ بتواند مشکل را حل کند.
+    fa = لطفا مشکل را با جرئیات توضیح دهید تا جامعه اوپن‌استریت‌مپ بتواند مشکل را حل کند.
     ar = يرجى وصف المشكلة بالتفاصيل حتى يتسنى لفريق OpenStreeMap إصلاح الخطأ.
     cs = Popište prosím detailně problém, aby vám komunita OpenStreeMap mohla pomoct opravit chybu.
     da = Beskriv problemet i detaljer, så OpenStreetMap-fællesskabet kan løse fejlen.
@@ -16403,7 +16403,7 @@
     comment = Error dialog no space
     en = To download, you need more space. Please delete any unnecessary data.
     ru = Для загрузки требуется больше свободного места. Пожалуйста, удалите ненужные данные.
-    fa = برای دانلود، شما نیاز به فضای بیشتری دارید. لطفا هر گونه داده های غیر ضروری را حذف کنید.
+    fa = برای دانلود، شما نیاز به فضای بیشتری دارید. لطفا هر گونه داده‌های غیر ضروری را حذف کنید.
     ar = للتنزيل، فأنت تحتاج إلى توفير مساحة أكبر. من فضلك، احذف البيانات غير الضرورية.
     cs = Ke stažení potřebujete více volného místa. Odstraňte prosím nepotřebná data.
     da = For at opdatere app'en skal du bruge mere plads. Slet unødvendig data.
@@ -16463,7 +16463,7 @@
   [editor_comment_will_be_sent]
     en = We will make sure to send your comments to the map editors.
     ru = Мы обязательно отправим ваш комментарий картографам.
-    fa = ما مطمئن خواهند شد که نظرات شما برای ویرایشگران نقشه ارسال شود.
+    fa = ما مطمئن می‌شویم که نظرات شما برای ویرایشگران نقشه ارسال شود.
     ar = سوف نرسل تعليقك إلى فريق رسم الخرائط.
     cs = Váš komentář pošleme kartografům.
     da = Vi vil sende dine kommentarer til kartograferne.
@@ -16675,7 +16675,7 @@
     tags = ios, android
     en = The number of floors must non exceed 25
     ru = Количество этажей не должно превышать 25
-    fa = تعداد طقات نباید بیشتر از 25 طبقه باشد
+    fa = تعداد طقات نباید بیشتر از ۲۵ طبقه باشد
     ar = تحرير المبنى بحد أقصى 25 طابقًا
     cs = Opravte počet poschodí, max. 25
     da = Rediger bygningen med maksimum 25 etager
@@ -17434,7 +17434,7 @@
   [whatsnew_update_editor_message]
     en = MAPS.ME users have already made 200,000 map changes. Together we are making the most detailed maps in the world. Join us!
     ru = Пользователи MAPS.ME внесли уже 200 000 правок на карту. Вместе мы сделаем карты самыми подробными в мире. Присоединяйся!
-    fa = کابران MAPS.ME تا کنون بیش از 200,000 تغیر در نقشه دادند. با کمک هم پرجزئیات ترین نقشه دنیا را خواهیم ساخت. به ما بپیوندید!
+    fa = کابران MAPS.ME تا کنون بیش از ۲۰۰٬۰۰۰ تغیر در نقشه دادند. با کمک هم پرجزئیات ترین نقشه دنیا را خواهیم ساخت. به ما بپیوندید!
     ar = قام مستخدمو MAPS.ME بإجراء 200000 تغيير على الخرائط. معًا سنحصل على الخرائط الأكثر تفصيلاً في العالم. انضم إلينا!
     cs = Uživatelé aplikace MAPS.ME už provedli na 200 000 změn map. Přidejte se k nám a pomozte nám vytvořit nejpodrobnější mapy světa!
     da = MAPS.ME brugere har foretaget 200.000 kortændringer. Sammen laver vi det mest detaljerede kort i verden. Tilmeld dig!
@@ -17526,7 +17526,7 @@
   [location_services_disabled_message]
     en = Enable access to geolocation in the device settings
     ru = Разрешите доступ к геопозиции в настройках устройства.
-    fa = دسترسی به موقعیت جغرافیایی را در تنظیمات درستگاه فعال کنید.
+    fa = دسترسی به موقعیت جغرافیایی را در تنظیمات دستگاه فعال کنید.
     ar = قم بتفعيل الوصول إلى الموقع الجغرافي في إعدادات الجهاز
     cs = Povolte přístup ke geolokaci v nastavení přístroje
     da = Slå adgang til geoposition til i enhedens indstillinger
@@ -20163,7 +20163,7 @@
     tags = ios, android
     en = MAPS.ME is an essential offline application for travelling. MAPS.ME is based on OpenStreetMap data and allows editing it.
     ru = MAPS.ME — незаменимое приложение для путешествий, работающее без подключения к интернету. MAPS.ME использует данные OpenStreetMap и позволяет их улучшать.
-    fa = MAPS.ME یک نقشه آفلاین ضروری برای سفر است. MAPS.ME با داده‌های اوپن‌استریت‌مپ کار می‌کند و اجازه می دهد تا آن را ویرایش کنید.
+    fa = MAPS.ME یک نقشه آفلاین ضروری برای سفر است. MAPS.ME با داده‌های اوپن‌استریت‌مپ کار می‌کند و اجازه می‌دهد تا آن را ویرایش کنید.
     ar = MAPS.ME هو تطبيق أساسي للسفر بدون اتصال بالإنترنت. يعتمد برنامج MAPS.ME على بيانات OpenStreetMap ويتيح تحريرها.
     cs = MAPS.ME je zásadní offline aplikace k cestování. MAPS.ME je založen na datech z OpenStreetMap a umožňuje je upravovat.
     da = MAPS.ME er en essentiel offline-app for rejsende. MAPS.ME er baseret på data fra OpenStreetMap, og gør det muligt at redigere disse data.
@@ -20229,7 +20229,7 @@
     tags = ios,android
     en = Collecting usage statistics helps us improve the app.
     ru = Сбор статистики помогает нам совершенствовать приложение.
-    fa = جمع آوری آمار استفاده به ما کمک می کند تا برنامه را بهبود ببخشیم.
+    fa = جمع آوری آمار استفاده به ما کمک می‌کند تا برنامه را بهبود ببخشیم.
     ar = تجميح إحصائيات الاستخدام يساعد في تحسين التطبيق.
     cs = Sběr statistických údajů o používání nám pomáhá aplikaci vylepšovat.
     da = Indsamling af anvendelsesstatistik hjælper os med at forbedre appen.
@@ -20512,7 +20512,7 @@
   [whats_new_booking_improve_message]
     en = Search results for hotels now contain the price category.\nWe also added more than 110,000 hotels.
     ru = Результаты поиска отелей на карте показывают ценовую категорию.\nОтелей для бронирования стало на 110 000 больше.
-    fa = جست‌وجوی هتل‌ها اکنون دسته بندی قیمت را شامل می‌شود.\nما همچنین بیش از 110,000 هتل اضافه کردیم.
+    fa = جست‌وجوی هتل‌ها اکنون دسته بندی قیمت را شامل می‌شود.\nما همچنین بیش از ۱۱۰٬۰۰۰ هتل اضافه کردیم.
     ar = تحتوي نتائج البحث عن الفنادق الآن على فئة السعر.\nوأضفنا أيضًا أكثر من 110000 فندق.
     cs = Výsledky hledání hotelů nyní obsahují cenové kategorie. \nTaké jsme přidali více než 110 000 hotelů.
     da = Søgeresultater for hoteller viser nu også priskategorien.\nVi har desuden tilføjet mere end 110.000 hoteller.
@@ -20602,7 +20602,6 @@
     zh-Hant = 附近
     el = Σε κοντινή απόσταση
     sk = V blízkosti
-    fa = در این نزدیکی
 
   [taxi_order]
     comment = For ordering a taxi (as opposed to hotels or other things)
@@ -20667,7 +20666,6 @@
     el = Χρόνος αναμονής %s
     no = Forventet om %s
     sk = Očakávaný príjazd o %s
-    fa = %s می‌رسد
 
   [taxi_not_found]
     comment = When there are no available taxis nearby
@@ -20700,7 +20698,6 @@
     zh-Hant = 無法在附近找到計程車
     el = Δε βρέθηκε ταξί σε κοντινή απόσταση
     sk = V okolí sa nepodarilo nájsť žiaden taxík
-    fa = هیچ تاکسی در این نزدیکی یافت نشد
 
   [install_app]
     en = Install
@@ -20731,7 +20728,6 @@
     zh-Hans = 安装
     zh-Hant = 安裝
     sk = Nainštalovať
-    fa = نصب
 
   [booking_filters]
     comment = `Filter` is a noun here
@@ -20764,7 +20760,6 @@
     zh-Hant = 篩選條件
     el = Φίλτρο
     sk = Filter
-    fa = فیلتر
 
   [booking_filters_reset]
     en = Reset
@@ -20796,7 +20791,6 @@
     zh-Hant = 重設
     el = Μηδενισμός
     sk = Obnoviť
-    fa = ریست
 
   [booking_filters_rating]
     en = Rating
@@ -20828,7 +20822,6 @@
     zh-Hant = 評分
     el = Βαθμολογία
     sk = Hodnotenie
-    fa = امتیاز
 
   [booking_filters_rating_any]
     en = Any
@@ -20860,7 +20853,6 @@
     zh-Hant = 任意
     el = Οποιοδήποτε
     sk = Akékoľvek
-    fa = هرگونه
 
   [booking_filters_ragting_good]
     en = Good
@@ -20892,7 +20884,6 @@
     zh-Hant = 好
     el = Καλή
     sk = Dobré
-    fa = خوب
 
   [booking_filters_rating_very_good]
     en = Very Good
@@ -20924,7 +20915,6 @@
     zh-Hant = 很好
     el = Πολύ καλή
     sk = Veľmi dobré
-    fa = خیلی خوب
 
   [booking_filters_rating_excellent]
     en = Excellent
@@ -20956,7 +20946,6 @@
     zh-Hant = 極好
     el = Τέλεια
     sk = Výborné
-    fa = عالی
 
   [booking_filters_price_category]
     en = Price Category
@@ -20988,7 +20977,6 @@
     zh-Hant = 價格類別
     el = Κατηγορία τιμής
     sk = Cenová kategória
-    fa = دسته‌بندی قمیت
 
   [booking_filters_no_results]
     en = No Results Found
@@ -21020,7 +21008,6 @@
     zh-Hant = 找不到任何結果
     el = Δεν βρέθηκαν αποτελέσματα
     sk = Nenašli sa žiadne výsledky
-    fa = هیچ نتیجه‌ای یافت نشد
 
   [booking_filters_nores_message]
     en = Try a more general search term, zoom out or reset the filter.
@@ -21052,7 +21039,6 @@
     zh-Hant = 嘗試一個更普通的搜尋字詞、縮小顯示或重設篩選條件。
     el = Δοκιμάστε ένα γενικότερο όρο αναζήτησης, κάντε σμίκρυνση ή μηδενίστε το φίλτρο.
     sk = Skúste vyhľadávať všeobecnejší výraz, vzdialiť alebo obnoviť nastavenie filtra.
-    fa = یک شرایط عمومی‌تری را برای جست‌وجو انتخاب کنید، محیط بزرگرتی انتخاب کنید یا فیلترها را بردارید.
 
   [booking_filters_expand_area_button]
     en = Zoom out
@@ -21084,7 +21070,6 @@
     zh-Hant = 縮小
     el = Σμίκρυνση
     sk = Vzdialiť
-    fa = کوچک نمایی
 
   [booking_filters_reset_button]
     en = Reset Filter
@@ -21116,7 +21101,6 @@
     zh-Hant = 重設篩選條件
     el = Μηδενισμός φίλτρου
     sk = Obnoviť filter
-    fa = ریست کردن فیلتر
 
   [booking_list]
     comment = noun
@@ -21149,7 +21133,6 @@
     zh-Hant = 清單
     el = Λίστα
     sk = Zoznam
-    fa = فهرست
 
   [booking_based_on_reviews]
     en = Based on %d hotel reviews
@@ -21181,7 +21164,6 @@
     zh-Hant = 根據 %d 則飯店評論
     el = Σύμφωνα με %d κριτικές ξενοδοχείων
     sk = Na základe %d recenzií
-    fa = بر اساس %d نظر
 
   [booking_show_more]
     en = Show more
@@ -21213,7 +21195,6 @@
     zh-Hant = 顯示更多
     el = Εμφάνιση περισσοτέρων
     sk = Zobraziť viac
-    fa = بیشتر نشان بده
 
   [booking_reviews]
     en = Reviews
@@ -21245,7 +21226,6 @@
     zh-Hant = 評論
     el = Κριτικές
     sk = Recenzie
-    fa = نظرات
 
   [booking_hotel]
     en = Hotel
@@ -21277,7 +21257,6 @@
     zh-Hant = 飯店
     el = Ξενοδοχείο
     sk = Hotel
-    fa = هتل
 
   [booking_hotel_room]
     comment = hotel room
@@ -21310,7 +21289,6 @@
     zh-Hant = 客房
     el = Δωμάτιο
     sk = Izba
-    fa = اتاق
 
   [chat]
     comment = A neologism for a chat based on geographical proximity
@@ -21502,4 +21480,3 @@
     en = Advertisement
     en-GB = Advertisement
     ru = Реклама
-    fa = باز کردن
